@@ -69,6 +69,7 @@ article>h1{
     font-size: 2em;
     padding-top: 15px;
     color: #063D1E;
+    display: inline-block;
 }
 p{
     text-align: justify;
