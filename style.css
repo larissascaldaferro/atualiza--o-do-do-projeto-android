@@ -27,6 +27,7 @@ header{
     padding-bottom: 50px;
     
     
+    
 }
 
 header>h1{
@@ -55,19 +56,20 @@ nav>a:hover{
     background-color: rgba(240, 248, 255, 0.452);
    
 }
-main{max-width: 800px;
+main{max-width: 500px;
     background-color: aliceblue;
     margin-bottom: 30px;
     border-radius: 0px 0px 10px 10px;
     padding-left: 10px;
 }
 
-    
+ article{
+    padding-top: 15px;
+ }   
 
 article>h1{
     font-family: 'droid';
     font-size: 2em;
-    padding-top: 15px;
     color: #063D1E;
     display: inline-block;
 }
@@ -99,7 +101,7 @@ article a:hover{
 strong{color: #2DA262;}
 
 img.pequena{
-    max-width:700px;
+    max-width:490px;
 }
 
 img.bug{
