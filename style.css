@@ -140,7 +140,7 @@ ul{
     columns: 2;
 }
 li{
-    list-style-position: inside;
+    list-style-position: inside; 
 }
 
 footer{
